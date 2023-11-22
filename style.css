@@ -1,0 +1,172 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+}
+
+body {
+  font-family: 'League Spartan', sans-serif;
+  background-image: url("images/bg-pattern-top-desktop.svg"),
+    url("images/bg-pattern-bottom-desktop.svg");
+  background-repeat: no-repeat,
+    no-repeat;
+  background-size: auto, cover;
+}
+
+
+.ratings {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+  height: 250px;
+}
+
+.container {
+  display: flex;
+}
+
+.products {
+  width: 450px;
+}
+
+.h1 {
+  width: 300px;
+  color: hsl(300, 43%, 22%);
+  font-size: 28px;
+  line-height: 35px;
+  padding: 10px 0px;
+}
+
+.p {
+  width: 370px;
+  padding: 10px 0px;
+  color: hsl(300, 43%, 22%);
+}
+
+
+.reviews {
+  width: 500px;
+  padding: 20px 0px;
+}
+
+
+
+.star {
+
+  text-align: right;
+  font-weight: bold;
+  color:hsl(300, 43%, 22%) ;
+  padding: 13px 20px;
+  width: 400px;
+  height: 45px;
+  text-align: center;
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 5px;
+  margin-left: 22px;
+}
+
+.star1 {
+  font-weight: bold;
+   color:hsl(300, 43%, 22%) ;
+  padding: 13px 20px;
+  width: 400px;
+  height: 45px;
+  text-align: center;
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 5px;
+  margin-left: 75px;
+}
+
+.star2 {
+  font-weight: bold;
+   color:hsl(300, 43%, 22%) ;
+  padding: 13px 20px;
+  width: 400px;
+  height: 45px;
+  text-align: center;
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 5px;
+  margin-left: 100px;
+}
+
+.testimonials {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container1 {
+  display: flex;
+  height: 250px;
+}
+
+.card {
+  background-color: hsl(300, 43%, 22%);
+  width: 300px;
+  height: 190px;
+  border-radius: 5px;
+  padding: 30px 25px;
+}
+
+.card1 {
+  background-color: hsl(300, 43%, 22%);
+  width: 300px;
+  height: 190px;
+  margin: 15px 28px;
+  border-radius: 5px;
+  padding: 30px 25px;
+}
+
+
+.card2 {
+  background-color: hsl(300, 43%, 22%);
+  width: 300px;
+  height: 190px;
+  margin: 30px 0px;
+  border-radius: 5px;
+  padding: 30px 25px;
+}
+
+
+.heading{
+  padding: 5px 20px;
+  line-height: 13px;
+}
+
+.h5{
+  color: hsl(0, 0%, 100%);
+
+}
+
+.h6{
+  color:hsl(333, 80%, 67%) ;
+}
+
+.para{
+  padding: 20px 0px;
+  color: hsl(0, 0%, 100%);
+  font-size: 14px;
+  line-height: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
